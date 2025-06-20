@@ -11,7 +11,7 @@
 ## 🛠️ Technologies Used
 - Python
 - Django
-- SQLite
 - HTML, CSS (Bootstrap)
+- JavaScript
 =======
 
